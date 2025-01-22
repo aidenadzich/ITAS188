@@ -1,4 +1,4 @@
-package edu.itas.aidenadzich.lab2_188;
+package edu.itas.croftd.lab2_2024;
 
 import androidx.appcompat.app.AppCompatActivity;
 
