@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace = "edu.itas.aidenadzich.lab2"
+    namespace = "edu.itas.aidenadzich.lab3"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "edu.itas.aidenadzich.lab2"
-        minSdk = 34
+        applicationId = "edu.itas.aidenadzich.lab3"
+        minSdk = 35
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
